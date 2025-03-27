@@ -10,5 +10,17 @@
         "created_at": 1743091544.9352505
       }
     ]
+  },
+  {
+    "id": 2,
+    "email": "mariogimenezbueno123@gmail.com",
+    "password": "a1a4063e7ce6b0ad138138ee2cfadae6984d3195974a71a6933296d36c8d65c4",
+    "created_at": "2025-03-27T20:07:21.551992",
+    "additional_passwords": [
+      {
+        "password": "a1a4063e7ce6b0ad138138ee2cfadae6984d3195974a71a6933296d36c8d65c4",
+        "created_at": 1743102441.5519981
+      }
+    ]
   }
 ]
