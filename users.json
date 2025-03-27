@@ -2,12 +2,12 @@
   {
     "id": 1,
     "email": "gimenezbuenogabriel@gmail.com",
-    "password": "e9cd4f08ccaaa3d673c0e777111b90933b14fe692611a2b81b3aa36ffae8b61e",
+    "password": "69116ee35872269f5f85791da2d00a75b09c0bb8567a554fb2f6f71f08ddfa67",
     "created_at": "2025-03-26T14:32:23.236264",
     "additional_passwords": [
       {
-        "password": "e9cd4f08ccaaa3d673c0e777111b90933b14fe692611a2b81b3aa36ffae8b61e",
-        "created_at": 1743091304.107196
+        "password": "69116ee35872269f5f85791da2d00a75b09c0bb8567a554fb2f6f71f08ddfa67",
+        "created_at": 1743091541.98661
       }
     ]
   }
