@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "gg",
+    "image": "C:/Users/gimen/Desktop/GKPROJECT/Avilon/IMGS/v.jpg",
+    "map_url_or_iframe": "https://mapgenie.io/v-rising",
+    "map_kind": "URL",
+    "created_at": "2025-03-28 14:30:10"
+  }
+]
